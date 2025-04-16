@@ -1,2 +1,5 @@
-chapter1-the-basics.txt
-chapter2-writing-in-markua.txt
+1-life-the-goal.md
+2-unreconciled-truth.md
+3-invite-doudt.md
+4-civilized-man.md
+5-direct-path.md
