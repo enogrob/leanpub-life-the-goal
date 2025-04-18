@@ -1,10 +1,9 @@
+<div style="text-align: center;">
+    <h1>Life The Goal</h1>
+    <img src="resources/k-in-ommen.jpg" alt="Krishnamurti speaking in Ommen">
+</div>
 
-# Life The Goal  
-
-![](resources/k-in-ommen.jpg)
-Krishnamurti speaking in Ommen
-
-AS A CLOUD hurried by the winds across the valley, so is man wherever he is, hurried along through life. Man has no fixed purpose, man has no understanding of the meaning of life, but is as the clouds that have no resting place, that are chased from valley to valley, thathave no quietude, no tranquillity, no peace. Man has no goal, he is blind to the purpose of life and there is chaos and disintegration in him, and hence in the world.
+AS A CLOUD hurried by the winds across the valley, so is man wherever he is, hurried along through life. Man has no fixed purpose, man has no understanding of the meaning of life, but is as the clouds that have no resting place, that are chased from valley to valley, that have no quietude, no tranquillity, no peace. Man has no goal, he is blind to the purpose of life and there is chaos and disintegration in him, and hence in the world.
 
 And what is the purpose of life? It is the freedom of life, the liberation of life from all things, the liberation which comes when you have gone through all experiences and are, therefore, beyond all experience. And I want to show you that in order to fulfil life, as I have fulfilled life, you must welcome to your heart every experience, however unpleasant, however delightful, so as to make your life full as the rain-drop. You are afraid of sorrow, thinking it something fearful, something of which you are ashamed. The experience of sorrow gives you strength, strength to sustain you in your struggle, which is also experience. Invite sorrow out of the abundance of your heart, and do not put it aside, for sorrow gives the perfume of understanding, is the creator of affection, and gives you immense sympathy with life. Sorrow and pleasure, evil and righteousness have a meaning if you have established the goal; for the goal gives constantly the aid of its understanding.
  
@@ -18,16 +17,60 @@ You have had your various beliefs, you have adhered to your various dogmas, you 
 
 The web of life is spun out of the common things of life, and those common things you can control. You can give them originality, you can create greatness out of them, or you can destroy them by lack of understanding. The web of life and the understanding thereof is in your own control, and not in the control of another. When you give over the control of your life to another, there is unhappiness, there is authority, which can be cut down like a tree, and the comfort of its shadow vanishes away. 
 
-By thus limiting and betraying the Truth, fear is caused in the mind and in the heart, the fear of good and evil, the fear of narrow morality, the fear of heaven and hell. And on that background of fear you paint innumerable beliefs that place a limitation on life. Because of this fear there is a desire to seek comfort. But I say to you, seek not comfort but understanding. The search for comfort is the bondage of life and the search for understanding is the freedom of life, and you can only gain that freedom through experience. How can there be any comfort other than the understanding of Truth? You want to attain without a struggle, without a tear. A spiritual drug store is what most people are looking for, antidotes for fears - that is why you look for external help to uphold you. You are afraid to face whatever weakness is yours; afraid to face yourself and conquer. Being inexperienced of great heights, of great solitudes, of loneliness, and of eternal life, you think that you must carry with you your friends, your qualities, your churches, your moralities, your dignities, your bonds, your rites and your religions. At these great heights you do not want such things. 
+By thus limiting and betraying the Truth, fear is caused in the mind and in the heart, the fear of good and evil, the fear of narrow morality, the fear of heaven and hell. And on that background of fear you paint innumerable beliefs that place a limitation on life. Because of this fear there is a desire to seek comfort. But I say to you, seek not comfort but understanding. The search for comfort is the bondage of life and the search for understanding is the freedom of life, and you can only gain that freedom through experience. How can there be any comfort other than the understanding of Truth? You want to attain without a struggle, without a tear. A spiritual drug store is what most people are looking for, antidotes for fears - that is why you look for external help to uphold you. You are afraid to face whatever weakness is yours; afraid to face yourself and conquer. Being inexperienced of great heights, of great solitudes, of loneliness, and of eternal life, you think that you must carry with you, your friends, your qualities, your churches, your moralities, your dignities, your bonds, your rites and your religions. At these great heights you do not want such things. 
 
 In the shadow of the present man is caught, is entangled, and thereby creates sorrow. Life for him is a continual struggle, a continual strife, a continual jostle. To dig through the present to the eternal is the purpose of man. Every human being must go through the process of digging that tunnel, the tunnel which is the direct path to the attainment of life. And that tunnel, which is the only path to the fulfilment of life, lies within yourself. And in that tunnel you cannot turn back, for you have thrown behind you that which you have dug out. You cannot but go forward, and that going forward must be reached by the discovery of Truth, or else progress, as such, ceases. To go forward with the fixed determination, in your minds, to discover the eternal beyond the shadow of the present, is the purpose of life. 
 
-And when once you have established for yourself this goal, which is the fulfilment of life, the freedom from all desires, from all experiences, from all sorrows, pain and struggle, then that digging through the tunnel becomes an ecstasy. 
+And when once you have established for yourself this goal, which is the fulfilment of life, the freedom from all desires, from all experiences, from all sorrows, pain and struggle, then that digging through the tunnel becomes an ecstasy.
 
- C> * 
- C> 
- C> * *
- 
+```mermaid
+graph LR
+    %% Main Concept
+    A[Life] -->|Gives Meaning| B[Purpose of Life]
+    A -->|Leads to| C[Struggle and Sorrow]
+    A -->|Seeks| D[Freedom and Truth]
+
+    %% Subgraph for Purpose of Life
+    subgraph Purpose_of_Life
+        direction TB
+        B1[Freedom from Desires]
+        B2[Freedom from Experiences]
+        B3[Freedom from Sorrow]
+        B -->|Requires| B1
+        B -->|Requires| B2
+        B -->|Requires| B3
+    end
+
+    %% Subgraph for Struggle and Sorrow
+    subgraph Struggle_and_Sorrow
+        direction TB
+        C1[Chaos and Disintegration]
+        C2[Bondage of Beliefs]
+        C3[Search for Comfort]
+        C -->|Causes| C1
+        C -->|Results in| C2
+        C -->|Leads to| C3
+    end
+
+    %% Subgraph for Freedom and Truth
+    subgraph Freedom_and_Truth
+        direction TB
+        D1[Understanding of Truth]
+        D2[Discovery of Eternal]
+        D3[Fulfillment of Life]
+        D -->|Requires| D1
+        D -->|Leads to| D2
+        D -->|Achieves| D3
+    end
+
+    %% Relationships between subgraphs
+    B3 -->|Contributes to| C1
+    C2 -->|Blocks| D1
+    D2 -->|Supports| B1
+    D3 -->|Completes| A
+```
+
+
 
 
 
