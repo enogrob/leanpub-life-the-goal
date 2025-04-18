@@ -1,0 +1,44 @@
+graph LR
+    %% Main Concept
+    A[Life] -->|Gives Meaning| B[Purpose of Life]
+    A -->|Leads to| C[Struggle and Sorrow]
+    A -->|Seeks| D[Freedom and Truth]
+
+    %% Subgraph for Purpose of Life
+    subgraph Purpose_of_Life
+        direction TB
+        B1[Freedom from Desires]
+        B2[Freedom from Experiences]
+        B3[Freedom from Sorrow]
+        B -->|Requires| B1
+        B -->|Requires| B2
+        B -->|Requires| B3
+    end
+
+    %% Subgraph for Struggle and Sorrow
+    subgraph Struggle_and_Sorrow
+        direction TB
+        C1[Chaos and Disintegration]
+        C2[Bondage of Beliefs]
+        C3[Search for Comfort]
+        C -->|Causes| C1
+        C -->|Results in| C2
+        C -->|Leads to| C3
+    end
+
+    %% Subgraph for Freedom and Truth
+    subgraph Freedom_and_Truth
+        direction TB
+        D1[Understanding of Truth]
+        D2[Discovery of Eternal]
+        D3[Fulfillment of Life]
+        D -->|Requires| D1
+        D -->|Leads to| D2
+        D -->|Achieves| D3
+    end
+
+    %% Relationships between subgraphs
+    B3 -->|Contributes to| C1
+    C2 -->|Blocks| D1
+    D2 -->|Supports| B1
+    D3 -->|Completes| A

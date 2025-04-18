@@ -1,7 +1,5 @@
-<div style="text-align: center;">
-    <h1>Life The Goal</h1>
-    <img src="resources/k-in-ommen.jpg" alt="Krishnamurti speaking in Ommen">
-</div>
+C> Life The Goal
+C> ![](resources/k-in-ommen.jpg)
 
 AS A CLOUD hurried by the winds across the valley, so is man wherever he is, hurried along through life. Man has no fixed purpose, man has no understanding of the meaning of life, but is as the clouds that have no resting place, that are chased from valley to valley, that have no quietude, no tranquillity, no peace. Man has no goal, he is blind to the purpose of life and there is chaos and disintegration in him, and hence in the world.
 
@@ -23,54 +21,6 @@ In the shadow of the present man is caught, is entangled, and thereby creates so
 
 And when once you have established for yourself this goal, which is the fulfilment of life, the freedom from all desires, from all experiences, from all sorrows, pain and struggle, then that digging through the tunnel becomes an ecstasy.
 
-```mermaid
-graph LR
-    %% Main Concept
-    A[Life] -->|Gives Meaning| B[Purpose of Life]
-    A -->|Leads to| C[Struggle and Sorrow]
-    A -->|Seeks| D[Freedom and Truth]
+![](resources/life-the-goal.png)
 
-    %% Subgraph for Purpose of Life
-    subgraph Purpose_of_Life
-        direction TB
-        B1[Freedom from Desires]
-        B2[Freedom from Experiences]
-        B3[Freedom from Sorrow]
-        B -->|Requires| B1
-        B -->|Requires| B2
-        B -->|Requires| B3
-    end
-
-    %% Subgraph for Struggle and Sorrow
-    subgraph Struggle_and_Sorrow
-        direction TB
-        C1[Chaos and Disintegration]
-        C2[Bondage of Beliefs]
-        C3[Search for Comfort]
-        C -->|Causes| C1
-        C -->|Results in| C2
-        C -->|Leads to| C3
-    end
-
-    %% Subgraph for Freedom and Truth
-    subgraph Freedom_and_Truth
-        direction TB
-        D1[Understanding of Truth]
-        D2[Discovery of Eternal]
-        D3[Fulfillment of Life]
-        D -->|Requires| D1
-        D -->|Leads to| D2
-        D -->|Achieves| D3
-    end
-
-    %% Relationships between subgraphs
-    B3 -->|Contributes to| C1
-    C2 -->|Blocks| D1
-    D2 -->|Supports| B1
-    D3 -->|Completes| A
-```
-
-
-
-
-
+lp-img  
