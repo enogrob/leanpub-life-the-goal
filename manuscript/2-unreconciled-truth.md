@@ -19,6 +19,5 @@ So I would that I could bind your mind and your heart -- I am not using that wor
 
 To the minds of most people it seems necessary to have an intermediary, an interpreter of the Truth. And I want to show that such a mediator must of necessity step down the Truth and that a mediator is unnecessary to life. By a mediator I mean a guru -- that a guru, in its narrowest sense of the word is unnecessary, and that in order to have a criterion by which to judge our feelings and our thoughts it is easier, I hold, to use the goal itself as the mediator, as the ultimate guru, and not another, either a person or an ideal, which would help momentarily. Because I hold that the person who helps momentarily is stepping down the Truth, and that the danger of that stepping down of the Truth is the betrayal of the goal, of the ultimate. If each one, therefore, fixes his own goal, which is: the goal of the world, and is hence thereby creating order, that will act as the guru, as the mediator, as a necessary requirement in helping each one to go towards the goal. 
 
-C> * 
-C> 
-C> * *  
+C> " * " 
+C> "* *"  
