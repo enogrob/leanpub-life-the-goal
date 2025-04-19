@@ -21,6 +21,4 @@ In the shadow of the present man is caught, is entangled, and thereby creates so
 
 And when once you have established for yourself this goal, which is the fulfilment of life, the freedom from all desires, from all experiences, from all sorrows, pain and struggle, then that digging through the tunnel becomes an ecstasy.
 
-![](resources/life-the-goal.png)
-
-lp-img  
+![](resources/life-the-goal.png) 
